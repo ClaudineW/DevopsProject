@@ -3,5 +3,7 @@
 Steps in creating a website using GitHub Pages
 
 **Step1**
-Creating a new repository<br>
+
+Creating a new repository
+
 ![](Images/CreateRepository.png)
