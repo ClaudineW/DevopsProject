@@ -4,6 +4,7 @@
 
 * [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
+
 ## Steps in creating a website using GitHub Pages
 
 ### **Step 1**
@@ -29,6 +30,7 @@ Key in the URL into the browser to view the homepage.
 ![Website](Images/website.png)
 
 
+
 ## Steps in cloning GitHub Repository into VS Code
 
 ### **Step 1**
@@ -37,11 +39,11 @@ In the "Get Started" Tab in VS Code, click "Clone Git Repository".
 
 ![Clone Repo Get Started](Images/GetStartedVSCode.png)
 
-A Dropdown menu will appear
+A Dropdown menu will appear.
 
 ![Clone Dropdown](Images/CloneDropDown1.png)
 
-Click on "Clone from GitHub"
+Click on "Clone from GitHub".
 
 ### **Step 2**
 
