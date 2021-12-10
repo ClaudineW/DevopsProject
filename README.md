@@ -10,10 +10,12 @@
 
 #### **Step2**
 
-##### Afthe new repository has been created, click on "Setting", then "Pages.
+##### After new repository has been created, click on "Setting", then "Pages.
 
-![](Images/Settingscreen.png)
+![Settingscreen](Images/Settingscreen.png)
 
 #### **Step 3**
 
-##### Setting up the configuration
+##### Creating URL using GitHub Pages.
+
+![CreateURL](Images/CreateURL.png)
