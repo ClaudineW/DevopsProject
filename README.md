@@ -1,21 +1,25 @@
 # This is create for the Dev Ops Project
 
-### Steps in creating a website using GitHub Pages
+## Links
 
-#### **Step1**
+* [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
-##### Creating a new repository.
+## Steps in creating a website using GitHub Pages
+
+### **Step1**
+
+#### Creating a new repository.
 
 ![Create Repository](Images/CreateRepository.png)
 
-#### **Step2**
+### **Step2**
 
-##### After new repository has been created, click on "Setting", then "Pages.
+#### After new repository has been created, click on "Setting", then "Pages.
 
 ![Settingscreen](Images/Settingscreen.png)
 
-#### **Step 3**
+### **Step 3**
 
-##### Creating URL using GitHub Pages.
+#### Creating URL using GitHub Pages.
 
 ![CreateURL](Images/CreateURL.png)
