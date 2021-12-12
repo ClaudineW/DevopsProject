@@ -3,6 +3,7 @@
 ## Links
 
 * [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+* [GitHub page](https://claudinew.github.io/DevopsProject/)
 
 
 ## Steps in creating a website using GitHub Pages
