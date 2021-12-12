@@ -31,9 +31,15 @@ Key in the file name and click on "Start commit".
 
 ### **Step 5**
 
-Insert source code.
+Insert source code and click "Commit New File".
 
-![Insert and Commit](Images/sourcecode.png)
+![Insert source code](Images/sourcecode.png)
+
+### **Step 6**
+
+Click on "Setting", then "Secrets".
+
+![Insert source code](Images/settingsecrets.png)
 
 In the "Get Started" Tab in VS Code, click "Clone Git Repository".
 
