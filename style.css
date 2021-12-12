@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-	width: 1500px;
+	width: 1300px;
 	margin: 0 auto;
 	padding: 30px 24px;
 	position: relative;
@@ -41,7 +41,7 @@ h1 em {
 }
 
 h2 {
-	font-size: 34px;
+	font-size: 32px;
 }
 
 h3 {
@@ -49,7 +49,7 @@ h3 {
 }
 
 p.lead {
-	font-size: 30px;
+	font-size: 32px;
 	font-weight: 300;
 	text-align: center;
 	margin: 30px 0;
@@ -99,12 +99,6 @@ header nav ul li {
 	padding: 0 20px;
 }
 
-header nav ul li a:hover {
-	color: #4b2707;
-	padding-top: 20px;
-	background: url('../images/tiny-donut.png') top center no-repeat;
-}
-
 header nav ul li a {
 	text-transform: uppercase;
 	text-decoration: none;
@@ -114,22 +108,13 @@ header nav ul li a {
 /* Hero */
 
 #hero {
-	background: #d2f1fa url('../images/bg-tile-yellow.gif') top left repeat;
+	background: #d2f1fa;
 }
 
 #hero .container {
 	position: relative;
 }
 
-#hero .large-ribbon {
-	height: 190px;
-	width: 150px;
-	background: url('../images/fresh-whole-ingredients.png') top left no-repeat;
-	text-indent: -9999px;
-	position: absolute;
-	top: -23px;
-	right: -30px;
-}
 
 /* The Whole Story */
 
@@ -138,41 +123,41 @@ header nav ul li a {
 	margin-right: 24px;
 	float: left;
 	font-size: 20px;
+	text-align: justify;
+}
+#htmlcssjs {
+	padding: 80px 0 30px 130px;
+	width: 240px;
+	float: left;
 }
 
 /* News & Events */
 
 #articles {
-	width: 570px;
+	width: 830px;
 	float: left;
 	margin-right: 24px;
 }
 
 #feature-image {
-	width: 830px;
-	float: right;
+	padding: 30px 0 0px 80px;
+	width: 240px;
+	float: left;
 }
 
 #news-events article {
 	margin: 20px 0;
 	padding-left: 55px;
-}
-
-#news-events article.news {
-	background: url('../images/icon-news.png') top left no-repeat;
-}
-
-#news-events article.event {
-	background: url('../images/icon-calendar.png') top left no-repeat;
+	width: 830px;
 }
 
 #news-events header time {
-	color: #d17f38;
-	font-size: 12px;
+	color: black;
+	font-size: 16px;
 }
 
 #news-events section.excerpt {
-	margin: 10px 0;
+	margin: 20px 0;
 }
 
 #news-events footer {
@@ -181,7 +166,12 @@ header nav ul li a {
 
 /* Footer */
 
+footer {
+	color: #22a0f3;
+}
+
 footer.main {
+	background: #22a0f3;
 	color: #232fd1;
 	padding: 30px 0;
 }
