@@ -37,9 +37,14 @@ Insert source code and click "Commit New File".
 
 ### **Step 6**
 
-Click on "Setting", then "Secrets".
+To insert Chat ID and Token, Click on "Setting", then "Secrets".
+[Click Here](https://t.me/StayAliveClauAlways_bot) on how to obtain the Chat ID and Toekn
 
-![Insert source code](Images/settingsecrets.png)
+### **Step 7**
+
+Click on "Actions", then "New Repository Secrets".
+
+![Insert source code](Images/newreposecret.png)
 
 In the "Get Started" Tab in VS Code, click "Clone Git Repository".
 
