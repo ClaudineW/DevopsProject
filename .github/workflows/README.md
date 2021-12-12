@@ -9,13 +9,13 @@
 
 Creating a new repository.
 
-![Create Repository](../Images/CreateRepository.png)
+![Create Repository](https://github.com/ClaudineW/DevopsProject/blob/main/Images/CreateRepository.png)
 
 ### **Step 2**
 
-After new repository has been created, click on "Setting", then "Pages.
+After new repository has been created, click on "Setting", then "Actions".
 
-![Settingscreen](Images/Settingscreen.png)
+![Settingscreen](Images/action.png)
 
 ### **Step 3**
 
