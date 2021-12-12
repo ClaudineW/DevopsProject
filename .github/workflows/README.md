@@ -15,13 +15,13 @@ Creating a new repository.
 
 After new repository has been created, click on "Setting", then "Actions".
 
-![Settingscreen](Images/action.png)
+![Settingscreen](Images/actiontab.png)
 
 ### **Step 3**
 
-Creating URL using GitHub Pages.
+Creating a new workflow for youself.
 
-![CreateURL](Images/CreateURL.png)
+![CreateURL](Images/setupownworkflow.png)
 
 Key in the URL into the browser to view the homepage.
 
