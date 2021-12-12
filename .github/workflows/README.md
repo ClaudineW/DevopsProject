@@ -25,7 +25,7 @@ Creating a new workflow for youself.
 
 ### **Step 4**
 
-Key in the file name and click on "Start commit".
+Key in the workflow name and click on "Start commit".
 
 ![Insert Name and Commit](Images/NamestartCommit.png)
 
@@ -46,28 +46,30 @@ Click on "Actions", then "New Repository Secrets".
 
 ![Insert source code](Images/newreposecret.png)
 
-In the "Get Started" Tab in VS Code, click "Clone Git Repository".
+### **Step 8**
 
-![Clone Repo Get Started](Images/GetStartedVSCode.png)
+Provide a name for the secret. The name to the "secret" needs to be the same as the source code.
+Insert the value. Click "Add secret".
+Do the same for both Chat ID and Token.
 
-A Dropdown menu will appear.
+![Add secret](Images/newreposecret.png)
 
-![Clone Dropdown](Images/CloneDropDown1.png)
+### **Step 9**
 
-Click on "Clone from GitHub".
+Back to "Action" Tab, click on the workflow.
 
-### **Step 2**
+![Workflow](Images/actiontab.png)
 
-Click on the repository that needs to be clone.
+### **Step 10**
 
-![Clone Dropdown](Images/CloneGITrepoVScode.png)
+Run the action.
 
-### **Step 3**
+![Run action](Images/run.png)
 
-Select the location to save in local.
+A green tick appear if it is a successful run.
 
-![Save location](Images/savelocation.png)
+![Successful run](Images/successfulrun.png)
 
-The README.md file is now clone to VS Code.
+A notification message will be sent to Telegram Bot when there is a push to the repository.
 
-![Save location](Images/ReadmeClone.png)
+![Telegram message](Images/telegrammessage.png)
