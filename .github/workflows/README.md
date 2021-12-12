@@ -1,52 +1,52 @@
-# Creating an action in GitHub for Telegram to notify me when there is an event to the repository.
+## Creating an action in GitHub for Telegram to notify me when there is an event to the repository.
 
 ## Links
 
 * [Telegram Channel](https://t.me/StayAliveClauAlways_bot)
 
 
-### **Step 1**
+## **Step 1**
 
 Creating a new repository.
 
 ![Create Repository](https://github.com/ClaudineW/DevopsProject/blob/main/Images/CreateRepository.png)
 
-### **Step 2**
+## **Step 2**
 
 After new repository has been created, click on "Setting", "Actions" then "New workflow".
 
 ![Kick off the action](Images/actiontab.png)
 
-### **Step 3**
+## **Step 3**
 
 Creating a new workflow for youself.
 
 ![Setup Own Workflow](Images/Setupownworkflow.png)
 
-### **Step 4**
+## **Step 4**
 
 Key in the workflow name and click on "Start commit".
 
 ![Insert Name and Commit](Images/NamestartCommit.png)
 
-### **Step 5**
+## **Step 5**
 
 Insert source code and click "Commit New File".
 
 ![Insert source code](Images/sourcecode.png)
 
-### **Step 6**
+## **Step 6**
 
 To insert Chat ID and Token, Click on "Setting", then "Secrets".
 [Click Here](https://t.me/StayAliveClauAlways_bot) on how to obtain the Chat ID and Token.
 
-### **Step 7**
+## **Step 7**
 
 Click on "Actions", then "New Repository Secrets".
 
 ![Insert source code](Images/newreposecret.png)
 
-### **Step 8**
+## **Step 8**
 
 Provide a name for the "secret". The name to the "secret" needs to be the same as the source code.
 Insert the value. Click "Add secret".
@@ -54,13 +54,13 @@ Do the same for both Chat ID and Token.
 
 ![Add secret](Images/addnewsecret.png)
 
-### **Step 9**
+## **Step 9**
 
 Back to "Action" Tab, click on the workflow.
 
 ![Workflow](Images/actiontab.png)
 
-### **Step 10**
+## **Step 10**
 
 Run the action.
 

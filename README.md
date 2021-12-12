@@ -7,19 +7,19 @@
 
 ## Steps in creating a website using GitHub Pages
 
-### **Step 1**
+## **Step 1**
 
 Creating a new repository.
 
 ![Create Repository](Images/CreateRepository.png)
 
-### **Step 2**
+## **Step 2**
 
 After new repository has been created, click on "Setting", then "Pages".
 
 ![Settingscreen](Images/Settingscreen.png)
 
-### **Step 3**
+## **Step 3**
 
 Creating URL using GitHub Pages.
 
@@ -33,7 +33,7 @@ Key in the URL into the browser to view the homepage.
 
 ## Steps in cloning GitHub Repository into VS Code
 
-### **Step 1**
+## **Step 1**
 
 In the "Get Started" Tab in VS Code, click "Clone Git Repository".
 
@@ -45,13 +45,13 @@ A Dropdown menu will appear.
 
 Click on "Clone from GitHub".
 
-### **Step 2**
+## **Step 2**
 
 Click on the repository that needs to be clone.
 
 ![Clone Dropdown](Images/CloneGITrepoVScode.png)
 
-### **Step 3**
+## **Step 3**
 
 Select the location to save in local.
 
