@@ -70,7 +70,7 @@ Run the action.
 A green tick appear if it is a successful run.
 
 
-![Successful run](Images/successfulrun.png)
+![Successful run](Images/successfulrun2.png)
 
 
 A notification message will be sent to Telegram Bot when there is a push to the repository.
