@@ -2,7 +2,7 @@
 
 ## Links
 
-* [Telegram Channgel](https://t.me/StayAliveClauAlways_bot)
+* [Telegram Channel](https://t.me/StayAliveClauAlways_bot)
 
 
 ### **Step 1**

@@ -15,7 +15,7 @@ Creating a new repository.
 
 ### **Step 2**
 
-After new repository has been created, click on "Setting", then "Pages.
+After new repository has been created, click on "Setting", then "Pages".
 
 ![Settingscreen](Images/Settingscreen.png)
 

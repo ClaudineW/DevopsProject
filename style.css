@@ -1,0 +1,210 @@
+body {
+	background: #ffffff;
+	color: #22a0f3;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	font-size: 22px;
+	font-family: 'Love Ya Like A Sister', cursive;
+}
+
+.container {
+	width: 1500px;
+	margin: 0 auto;
+	padding: 30px 24px;
+	position: relative;
+}
+
+.fintech {
+	text-align: center;
+}
+
+/* Typography */
+
+h1, h2 {
+	font-family: 'Love Ya Like A Sister', cursive;
+	color: #232fd1;
+	font-size: 40px;
+	font-weight: normal;
+	line-height: 44px;
+	margin: 0;
+}
+
+h1 {
+	text-align: center;
+	background: url('images/underline.png') bottom center no-repeat;
+	padding: 20px 0 20px;
+}
+
+h1 em {
+	color: #4b2707;
+	font-style: normal;
+}
+
+h2 {
+	font-size: 34px;
+}
+
+h3 {
+	margin: 0;
+}
+
+p.lead {
+	font-size: 30px;
+	font-weight: 300;
+	text-align: center;
+	margin: 30px 0;
+    color: #232fd1;
+}
+
+p {
+	margin: 0;
+}
+
+a:link {
+	color: #232fd1;
+}
+
+a:visited {
+	color: #6c3fbe;
+}
+
+a:hover {
+	color: #232fd1;
+}
+
+hr {
+	border: none;
+	height: 33px;
+	width: 333px;
+	margin: 30px auto;
+	background: url('images/underline.png') center center no-repeat;
+}
+
+/* Header */
+
+header nav {
+	text-align: center;
+}
+
+header nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: inline-block;
+	line-height: 41px;
+}
+
+header nav ul li {
+	display: inline-block;
+	padding: 0 20px;
+}
+
+header nav ul li a:hover {
+	color: #4b2707;
+	padding-top: 20px;
+	background: url('../images/tiny-donut.png') top center no-repeat;
+}
+
+header nav ul li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/* Hero */
+
+#hero {
+	background: #d2f1fa url('../images/bg-tile-yellow.gif') top left repeat;
+}
+
+#hero .container {
+	position: relative;
+}
+
+#hero .large-ribbon {
+	height: 190px;
+	width: 150px;
+	background: url('../images/fresh-whole-ingredients.png') top left no-repeat;
+	text-indent: -9999px;
+	position: absolute;
+	top: -23px;
+	right: -30px;
+}
+
+/* The Whole Story */
+
+#story-excerpt {
+	width: 830px;
+	margin-right: 24px;
+	float: left;
+	font-size: 20px;
+}
+
+/* News & Events */
+
+#articles {
+	width: 570px;
+	float: left;
+	margin-right: 24px;
+}
+
+#feature-image {
+	width: 830px;
+	float: right;
+}
+
+#news-events article {
+	margin: 20px 0;
+	padding-left: 55px;
+}
+
+#news-events article.news {
+	background: url('../images/icon-news.png') top left no-repeat;
+}
+
+#news-events article.event {
+	background: url('../images/icon-calendar.png') top left no-repeat;
+}
+
+#news-events header time {
+	color: #d17f38;
+	font-size: 12px;
+}
+
+#news-events section.excerpt {
+	margin: 10px 0;
+}
+
+#news-events footer {
+	font-size: 12px;
+}
+
+/* Footer */
+
+footer.main {
+	color: #232fd1;
+	padding: 30px 0;
+}
+
+#copyright {
+	width: 400px;
+	padding: 10px 0 10px 50px;
+	font-size: 18px
+}
+
+/* Force Elements to Self Clear its Children: http://css-tricks.com/snippets/css/clear-fix/ */
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+	}
+* html .group             { zoom: 1; } /* IE6 */
+*:first-child+html .group { zoom: 1; } /* IE7 */
+
+
+
+
+
