@@ -13,7 +13,7 @@ Creating a new repository.
 
 ### **Step 2**
 
-After new repository has been created, click on "Setting", then "Actions".
+After new repository has been created, click on "Setting", "Actions" then "New workflow".
 
 ![Kick off the action](Images/actiontab.png)
 
@@ -38,7 +38,7 @@ Insert source code and click "Commit New File".
 ### **Step 6**
 
 To insert Chat ID and Token, Click on "Setting", then "Secrets".
-[Click Here](https://t.me/StayAliveClauAlways_bot) on how to obtain the Chat ID and Toekn
+[Click Here](https://t.me/StayAliveClauAlways_bot) on how to obtain the Chat ID and Token.
 
 ### **Step 7**
 
@@ -48,11 +48,11 @@ Click on "Actions", then "New Repository Secrets".
 
 ### **Step 8**
 
-Provide a name for the secret. The name to the "secret" needs to be the same as the source code.
+Provide a name for the "secret". The name to the "secret" needs to be the same as the source code.
 Insert the value. Click "Add secret".
 Do the same for both Chat ID and Token.
 
-![Add secret](Images/newreposecret.png)
+![Add secret](Images/addnewsecret.png)
 
 ### **Step 9**
 
@@ -66,9 +66,12 @@ Run the action.
 
 ![Run action](Images/run.png)
 
+
 A green tick appear if it is a successful run.
 
+
 ![Successful run](Images/successfulrun.png)
+
 
 A notification message will be sent to Telegram Bot when there is a push to the repository.
 
