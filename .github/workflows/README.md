@@ -15,23 +15,25 @@ Creating a new repository.
 
 After new repository has been created, click on "Setting", then "Actions".
 
-![Settingscreen](Images/actiontab.png)
+![Kick off the action](Images/actiontab.png)
 
 ### **Step 3**
 
 Creating a new workflow for youself.
 
-![CreateURL](Images/setupownworkflow.png)
+![Setup Own Workflow](Images/Setupownworkflow.png)
 
-Key in the URL into the browser to view the homepage.
+### **Step 4**
 
-![Website](Images/website.png)
+Key in the file name and click on "Start commit".
 
+![Insert Name and Commit](Images/NamestartCommit.png)
 
+### **Step 5**
 
-## Steps in cloning GitHub Repository into VS Code
+Insert source code.
 
-### **Step 1**
+![Insert and Commit](Images/sourcecode.png)
 
 In the "Get Started" Tab in VS Code, click "Clone Git Repository".
 
