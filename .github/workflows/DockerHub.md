@@ -1,4 +1,4 @@
-## Pushing image from GitHub into DockerHub.
+## Pushing Images from GitHub into DockerHub.
 
 ## Links
 
@@ -23,24 +23,25 @@ Then click on "Start commit".
 
 ## **Step 4**
 
-To insert hat ID and Token, Click on "Setting", then "Secrets".
+To insert DOCKER_USERNAME and DOCKER_PASSWORD, click on "Setting", then "Secrets".
+
 ![Setting Secret](Images/SettingSecrets.png)
 
-## **Step 7**
+## **Step 5**
 
 Click on "Actions", then "New Repository Secrets".
 
 ![Insert source code](Images/newreposecret.png)
 
-## **Step 8**
+## **Step 6**
 
 Provide a name for the "secret". The name to the "secret" needs to be the same as the source code.
 Insert the value. Click "Add secret".
 Do the same for both Chat ID and Token.
 
-![Add secret](Images/addnewsecret.png)
+![Docker Secret](Images/DockerSecret.png)
 
-## **Step 9**
+## **Step 7**
 
 Back to "Action" Tab, click on the workflow.
 

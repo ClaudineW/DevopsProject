@@ -54,7 +54,7 @@ Provide a name for the "secret". The name to the "secret" needs to be the same a
 Insert the value. Click "Add secret".
 Do the same for both Chat ID and Token.
 
-![Add secret](Images/addnewsecret.png)
+![Add secret](Images/Addnewsecret.png)
 
 ## **Step 9**
 
