@@ -47,19 +47,37 @@ Back to "Action" Tab, click on the workflow.
 
 ![Workflow](Images/actiontabdocker.png)
 
-## **Step 10**
+## **Step 8**
 
 The action has been run.
-
-![Run action](Images/run.png)
-
-
 A green tick appear if it is a successful run.
 
+![Successful run](Images/successfulrundocket.png)
 
-![Successful run](Images/successfulrun2.png)
+An Image will be push to DockHub.
 
+![Docker Hub](Images/DockerHub.png)
 
-A notification message will be sent to Telegram Bot when there is a push to the repository.
+## Debugging docker-image workflow step by step.
 
-![Telegram message](Images/telegrammessage.png)
+A few rounds of debugging before the workflow become successful.
+
+![Debugging List](Images/DebuggingList.png)
+
+One Example of error: Missing Dockerfile (line 4)
+
+![Missing dockerfile](Images/nodockerfile.png)
+
+Another example of error: Wrong path for index.html (Line 48)
+
+![Wrong Path](Images/nopath.png)
+
+## Set Email alert for failed run.
+
+Click the dropdown at your profile logo. Setting > Notifications > Actions.
+
+![Set Notification](Images/setemailnotify.png)
+
+Sample of a failed run.
+
+![Failed Run](Images/EmailSample.png)

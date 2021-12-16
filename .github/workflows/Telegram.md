@@ -68,12 +68,10 @@ The action has been run.
 
 ![Run action](Images/run.png)
 
-
 A green tick appear if it is a successful run.
 
+![Successful run](Images/successfulrun2.png)
 
-![Successful run](Images/successfulrundocket.png)
+A notification message will be sent to Telegram Bot when there is a push to the repository.
 
-An Image will be push to DockHub.
-
-![Docker Hub](Images/DockerHub.png)
+![Telegram message](Images/telegrammessage.png)
