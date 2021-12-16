@@ -38,7 +38,7 @@ Insert source code and click "Commit New File".
 ## **Step 6**
 
 To insert Chat ID and Token, Click on "Setting", then "Secrets".
-[Click Here](https://t.me/StayAliveClauAlways_bot) on how to obtain the Chat ID and Token.
+[Click Here](https://claudinew.github.io/DevopsProject/exercises.html) on how to obtain the Chat ID and Token.
 
 ![Setting Secret](Images/SettingSecrets.png)
 
@@ -60,11 +60,11 @@ Do the same for both Chat ID and Token.
 
 Back to "Action" Tab, click on the workflow.
 
-![Workflow](Images/actiontab.png)
+![Workflow](Images/actiontabnotifier.png)
 
 ## **Step 10**
 
-Run the action.
+The action has been run.
 
 ![Run action](Images/run.png)
 
@@ -72,9 +72,8 @@ Run the action.
 A green tick appear if it is a successful run.
 
 
-![Successful run](Images/successfulrun2.png)
+![Successful run](Images/successfulrundocket.png)
 
+An Image will be push to DockHub.
 
-A notification message will be sent to Telegram Bot when there is a push to the repository.
-
-![Telegram message](Images/telegrammessage.png)
+![Docker Hub](Images/DockerHub.png)

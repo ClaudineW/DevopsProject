@@ -45,11 +45,11 @@ Do the same for both Chat ID and Token.
 
 Back to "Action" Tab, click on the workflow.
 
-![Workflow](Images/actiontab.png)
+![Workflow](Images/actiontabdocker.png)
 
 ## **Step 10**
 
-Run the action.
+The action has been run.
 
 ![Run action](Images/run.png)
 

@@ -1,4 +1,4 @@
-# This is create for the Dev Ops Project
+# This is created for the Dev Ops Project.
 
 ## Links
 
