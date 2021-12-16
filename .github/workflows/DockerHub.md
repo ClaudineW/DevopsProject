@@ -70,7 +70,7 @@ One Example of error: Missing Dockerfile (line 4)
 
 Another example of error: Wrong path for index.html (Line 48)
 
-![Wrong Path](Images/nopath.png)
+![Wrong Path](Images/Nopath.png)
 
 ## Set Email alert for failed run.
 
