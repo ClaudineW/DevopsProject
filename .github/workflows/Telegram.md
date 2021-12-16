@@ -40,6 +40,8 @@ Insert source code and click "Commit New File".
 To insert Chat ID and Token, Click on "Setting", then "Secrets".
 [Click Here](https://t.me/StayAliveClauAlways_bot) on how to obtain the Chat ID and Token.
 
+![Setting Secret](Images/SettingSecrets.png)
+
 ## **Step 7**
 
 Click on "Actions", then "New Repository Secrets".
